@@ -7,3 +7,8 @@ Framework for rapid development of selfbots using the Pronto API, specifically b
 
 - Paul Estrada ('27, lead maintainer)
 - Greyson Wyler ('29, websocket documentation)
+
+##### Getting started:
+
+Drop the `pronto` folder in your project directory
+Add `**/__pycache__/` to your `.gitignore` file
