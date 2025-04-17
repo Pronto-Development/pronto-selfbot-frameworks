@@ -10,6 +10,6 @@ Framework for rapid development of selfbots using the Pronto API, specifically b
 
 ##### Getting started:
 
-Drop the `pronto` folder in your project directory
+1. Drop the `pronto` folder in your project directory
 
-Add `**/__pycache__/` to your `.gitignore` file
+2. Add `**/__pycache__/` to your `.gitignore` file
