@@ -1,4 +1,4 @@
-# pronto-selfbots
+# Pronto Selfbot Framework
 
 ##### Description:
 Framework for rapid development of selfbots using the Pronto API, specifically built for students and developers at Stanford Online High School
